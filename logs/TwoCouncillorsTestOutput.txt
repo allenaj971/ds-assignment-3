@@ -1,0 +1,103 @@
+Council member 1 is sending proposal that contains proposal number 1 & vote 1
+Council member 2 is sending proposal that contains proposal number 2 & vote 2
+Council member 5 received prepare request from council member 1 that contains proposal number 1 & vote 1
+Council member 7 received prepare request from council member 1 that contains proposal number 1 & vote 1
+Council member 2 received prepare request from council member 1 that contains proposal number 1 & vote 1
+Council member 6 received prepare request from council member 1 that contains proposal number 1 & vote 1
+Council member 3 received prepare request from council member 1 that contains proposal number 1 & vote 1
+Council member 9 received prepare request from council member 1 that contains proposal number 1 & vote 1
+Council member 4 received prepare request from council member 1 that contains proposal number 1 & vote 1
+Council member 8 received prepare request from council member 1 that contains proposal number 1 & vote 1
+Council member 1 received prepare request from council member 1 that contains proposal number 1 & vote 1
+Council member 4 is sending promise that contains proposal number 1 & vote 1 to council member 1
+Council member 1 is sending promise that contains proposal number 1 & vote 1 to council member 1
+Council member 5 is sending promise that contains proposal number 1 & vote 1 to council member 1
+Council member 2 is sending promise that contains proposal number 1 & vote 1 to council member 1
+Council member 9 is sending promise that contains proposal number 1 & vote 1 to council member 1
+Council member 3 is sending promise that contains proposal number 1 & vote 1 to council member 1
+Council member 8 is sending promise that contains proposal number 1 & vote 1 to council member 1
+Council member 7 is sending promise that contains proposal number 1 & vote 1 to council member 1
+Council member 6 is sending promise that contains proposal number 1 & vote 1 to council member 1
+Council member 1 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 5 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 4 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 3 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 5 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 9 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 2 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 1 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 6 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 2 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 9 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 7 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 8 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 3 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 4 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 8 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 7 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 6 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 1 is accepting proposal from council member4 that contains proposal number 1 & vote 1
+Council member 2 is accepting proposal from council member5 that contains proposal number 2 & vote 2
+Number of members accepting 2's proposal: 1
+Number of members accepting 1's proposal: 1
+Council member 2 is accepting proposal from council member1 that contains proposal number 2 & vote 2
+Council member 1 is accepting proposal from council member1 that contains proposal number 1 & vote 1
+Number of members accepting 2's proposal: 2
+Number of members accepting 1's proposal: 2
+Council member 2 is accepting proposal from council member2 that contains proposal number 2 & vote 2
+Number of members accepting 2's proposal: 3
+Council member 1 is accepting proposal from council member5 that contains proposal number 1 & vote 1
+Number of members accepting 1's proposal: 3
+Council member 2 is accepting proposal from council member9 that contains proposal number 2 & vote 2
+Number of members accepting 2's proposal: 4
+Council member 1 is accepting proposal from council member2 that contains proposal number 1 & vote 1
+Number of members accepting 1's proposal: 4
+Council member 2 is accepting proposal from council member3 that contains proposal number 2 & vote 2
+Number of members accepting 2's proposal: 5
+Council member 1 is accepting proposal from council member9 that contains proposal number 1 & vote 1
+Number of members accepting 1's proposal: 5
+Council member 2 is sending accept request that contains proposal number 2 & vote 2
+Council member 1 is sending accept request that contains proposal number 1 & vote 1
+Council member 6 is accepting vote from council member2 that contains proposal number 2 & vote 2
+Council member 9 is accepting vote from council member2 that contains proposal number 2 & vote 2
+Council member 8 is accepting vote from council member2 that contains proposal number 2 & vote 2
+Council member 5 is accepting vote from council member2 that contains proposal number 2 & vote 2
+Council member 4 is accepting vote from council member2 that contains proposal number 2 & vote 2
+Council member 7 is accepting vote from council member2 that contains proposal number 2 & vote 2
+Council member 3 is accepting vote from council member2 that contains proposal number 2 & vote 2
+Council member 2 is accepting proposal from council member4 that contains proposal number 2 & vote 2
+Number of members accepting 2's proposal: 1
+Council member 1 is accepting proposal from council member3 that contains proposal number 1 & vote 1
+Number of members accepting 1's proposal: 1
+Council member 6 is accepting vote from council member1 that contains proposal number 1 & vote 1
+Council member 9 is accepting vote from council member1 that contains proposal number 1 & vote 1
+Council member 5 is accepting vote from council member1 that contains proposal number 1 & vote 1
+Council member 8 is accepting vote from council member1 that contains proposal number 1 & vote 1
+Council member 7 is accepting vote from council member1 that contains proposal number 1 & vote 1
+Council member 4 is accepting vote from council member1 that contains proposal number 1 & vote 1
+Council member 3 is accepting vote from council member1 that contains proposal number 1 & vote 1
+Council member 2 is accepting proposal from council member8 that contains proposal number 2 & vote 2
+Number of members accepting 2's proposal: 2
+Council member 1 is accepting proposal from council member8 that contains proposal number 1 & vote 1
+Number of members accepting 1's proposal: 2
+Council member 2 is accepting proposal from council member7 that contains proposal number 2 & vote 2
+Number of members accepting 2's proposal: 3
+Council member 1 is accepting proposal from council member7 that contains proposal number 1 & vote 1
+Number of members accepting 1's proposal: 3
+Council member 2 is accepting proposal from council member6 that contains proposal number 2 & vote 2
+Number of members accepting 2's proposal: 4
+Council member 1 is accepting proposal from council member6 that contains proposal number 1 & vote 1
+Number of members accepting 1's proposal: 4
+Council member 2 is accepting vote from council member2 that contains proposal number 2 & vote 2
+Council member 1 is accepting vote from council member2 that contains proposal number 2 & vote 2
+Council member 2 is accepting vote from council member1 that contains proposal number 1 & vote 1
+Council member 1 is accepting vote from council member1 that contains proposal number 1 & vote 1
+m1 vote: 2
+m2 vote: 2
+m3 vote: 2
+m4 vote: 2
+m5 vote: 2
+m6 vote: 2
+m7 vote: 2
+m8 vote: 2
+m9 vote: 2

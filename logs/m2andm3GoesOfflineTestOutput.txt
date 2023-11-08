@@ -1,0 +1,43 @@
+Council member 2 is sending proposal that contains proposal number 2 & vote 2
+Council member 3 is sending proposal that contains proposal number 3 & vote 3
+Council member 4 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 1 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 6 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 2 is accepting proposal from council member9 that contains proposal number 2 & vote 2
+Council member 7 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 9 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 8 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 5 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 3 received prepare request from council member 2 that contains proposal number 2 & vote 2
+Council member 4 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 7 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 8 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Number of members accepting 2's proposal: 1
+Council member 6 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 9 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 5 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 1 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 3 is sending promise that contains proposal number 2 & vote 2 to council member 2
+Council member 7 received prepare request from council member 3 that contains proposal number 3 & vote 3
+Council member 8 received prepare request from council member 3 that contains proposal number 3 & vote 3
+Council member 4 received prepare request from council member 3 that contains proposal number 3 & vote 3
+Council member 6 received prepare request from council member 3 that contains proposal number 3 & vote 3
+Council member 8 is sending promise that contains proposal number 3 & vote 3 to council member 3
+Council member 7 is sending promise that contains proposal number 3 & vote 3 to council member 3
+Council member 5 received prepare request from council member 3 that contains proposal number 3 & vote 3
+Council member 9 received prepare request from council member 3 that contains proposal number 3 & vote 3
+Council member 6 is sending promise that contains proposal number 3 & vote 3 to council member 3
+Council member 4 is sending promise that contains proposal number 3 & vote 3 to council member 3
+Council member 9 is sending promise that contains proposal number 3 & vote 3 to council member 3
+Council member 5 is sending promise that contains proposal number 3 & vote 3 to council member 3
+Council member 1 received prepare request from council member 3 that contains proposal number 3 & vote 3
+Council member 1 is sending promise that contains proposal number 3 & vote 3 to council member 3
+m1 vote: 0
+m2 vote: 0
+m3 vote: 0
+m4 vote: 0
+m5 vote: 0
+m6 vote: 0
+m7 vote: 0
+m8 vote: 0
+m9 vote: 0
