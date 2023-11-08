@@ -1,7 +1,5 @@
 compile:
-	javac -d bin/ \
-	./src/main/java/*.java \
-	./src/main/java/tests/*.java
+	javac -d bin/ src/main/java/CouncilMember.java src/main/java/PaxosServer.java src/main/java/RequestHandler.java src/main/java/tests/Test.java src/main/java/tests/LargeDelayTest.java src/main/java/tests/m2andm3GoesOfflineTest.java src/main/java/tests/m2andm3GoesOfflineTest.java src/main/java/tests/MinorityFailureTest.java src/main/java/tests/SmallDelayTest.java src/main/java/tests/TwoCouncillorsTest.java
 
 clean:
 	rm bin/main/java/*.class && rm bin/main/java/tests/*.class
